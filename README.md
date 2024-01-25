@@ -3,7 +3,7 @@ A Flutter app
 <br>
 This App was developed for Gejser bar in Copenhagen for their Gold Card Holders.
 
-The app digitizes the concept of Gold Card Holders, who were previously issued Metal Cards for the same purpose. It's very neat, but clients regrettably often lost them, and as a result, the cost of the concept was higher than intended. This app solution cuts costs on the production of metal cards but also increases the creation of new cardholders. An account can be created in seconds on the spot with the intended recipient.
+The app digitizes the concept of Gold Card Holders, who were previously issued Metal Cards for the same purpose. The Cards were very neat, but clients regrettably often lost them, and as a result, the cost of the concept was higher than intended. This app solution cuts costs on the production of metal cards but also increases the creation of new cardholders. An account can be created in seconds on the spot with the intended recipient.
 
 <br>
 <img src="https://github.com/MCAgithub/gejserbar_guldkort_app/assets/134640613/e4a35b80-9d60-4ad6-82a7-5f456900732b" width="150">
