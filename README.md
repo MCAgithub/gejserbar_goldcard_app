@@ -1,3 +1,3 @@
-# Gejser Bar Gold Card App
+### Gejser Bar Gold Card App
 
 A Flutter app
