@@ -12,3 +12,5 @@ The app digitizes the concept of Gold Card Holders, who were previously issued M
 
 ## App Diagram
 <img src="https://github.com/MCAgithub/gejserbar_guldkort_app/assets/134640613/3e3d092e-7231-4f5e-8b1f-b8890bf7754f" width="750">
+<br>
+Starting from the "Logged in?" Box (left) the flow of the app is as follows.
