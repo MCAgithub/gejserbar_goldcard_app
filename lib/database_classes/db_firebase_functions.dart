@@ -10,6 +10,7 @@ class DatabaseFirebasefunctions {
 
   static Stream<List<GoldUser>> getGoldUsers() => FirebaseFirestore.instance
       .collection('GoldCardHolder')
+      .orderBy('email', descending: false)
       .snapshots()
       .map((snapshot) =>
           snapshot.docs.map((doc) => GoldUser.fromJson(doc.data())).toList());
